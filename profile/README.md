@@ -34,7 +34,7 @@ For more detail, please check [this repository](https://github.com/CompanyCapsto
 
 **Machine Learning Model:** Jupyter Notebook, Python, Tensorflow
 
-For more detail, please check [this repository](https://github.com/CompanyCapstoneKitabisa/ml-indonesia-id-generator).
+For more detail, please check [this repository](https://github.com/CompanyCapstoneKitabisa/applicant-scoring).
 
 ## Installation
 
