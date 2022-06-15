@@ -45,7 +45,7 @@ https://github.com/CompanyCapstoneKitabisa/.github/blob/main/app-debug/app-debug
 
 The UI design of this application is based on Figma. If you want to see the UI design of this application, you can access it using the link provided below.
 ```bash
-[https://www.figma.com/](https://www.figma.com/file/Zcg126BIuFxZ9Qou3VuHVi/KitaBisa-Scholarship-Management-Design-File?node-id=48%3A49)
+https://www.figma.com/](https://www.figma.com/file/Zcg126BIuFxZ9Qou3VuHVi/KitaBisa-Scholarship-Management-Design-File?node-id=48%3A49
 ```
 
 ## Contributing
