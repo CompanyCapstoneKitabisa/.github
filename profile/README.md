@@ -5,6 +5,11 @@
 Internal application for KitaBisa to filter scholarship applicants. There will be 2 user roles in the app, admin and super admin. The app is using API endpoints for most business processes inside of it, for example to get and show applicant’s data from the server. For the login process, the app is connected to Firebase for data storage and also to allow email login and authentication. There is also a function to filter and sort applicants data using some rules to help admin find the wanted applicant. Admins are able to view the applicant’s detailed information and tag the applicant (accepted or not and add comment). The final filtered data is downloadable as CSV for further selection.
 
 ## Screenshots
+<img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/2.jpg" width="24%"></img>
+<img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/6.jpg" width="24%"></img>
+<img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/7.jpg" width="24%"></img>
+<img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/9.jpg" width="24%"></img>
+
 
 ## Features
 - User Login
