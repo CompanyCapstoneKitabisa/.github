@@ -8,7 +8,7 @@ Internal application for KitaBisa to filter scholarship applicants. There will b
 <img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/2.jpg" width="24%"></img>
 <img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/6.jpg" width="24%"></img>
 <img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/7.jpg" width="24%"></img>
-<img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/9.jpg" width="24%"></img>
+<img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/8.jpg" width="24%"></img>
 
 
 ## Features
