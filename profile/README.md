@@ -11,6 +11,10 @@ Internal application for KitaBisa to filter scholarship applicants. There will b
 <img src="https://raw.githubusercontent.com/CompanyCapstoneKitabisa/.github/main/ui/8.jpg" width="24%"></img>
 
 
+These are some screenshots of our application. First one from the left is showing the login page. Second one from the left is showing the campaign list page. Third one from the left is showing campaign detail and applicants list page. The last one is showing the applicant detail.
+
+For more detail, please check [this repository](https://github.com/CompanyCapstoneKitabisa/androidapp-kitabisa-schlrship-mgmt).
+
 ## Features
 - User Login
 - Add Campaign
@@ -28,7 +32,7 @@ For more detail, please check [this repository](https://github.com/CompanyCapsto
 
 For more detail, please check [this repository](https://github.com/CompanyCapstoneKitabisa/server-kitabisa-schlrship-mgmt).
 
-**Machine Learning Model:** Jupyter Notebook, Python, Tensorflow, 
+**Machine Learning Model:** Jupyter Notebook, Python, Tensorflow
 
 For more detail, please check [this repository](https://github.com/CompanyCapstoneKitabisa/ml-indonesia-id-generator).
 
