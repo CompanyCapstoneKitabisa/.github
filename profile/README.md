@@ -40,7 +40,7 @@ For more detail, please check [this repository](https://github.com/CompanyCapsto
 
 Our application is based on Android OS. In order to use our application, you will need an Android device that can runs at least Android OS Version 5.0 (Lollipop). You can download our application (.apk) from the link down below.
 ```bash
-https://drive.google.com/
+https://github.com/CompanyCapstoneKitabisa/.github/blob/main/app-debug/app-debug.apk?raw=true
 ```
 
 The prototype design of this application is based on Figma. If you want to see the prototype design of this application, you can access it using the link provided below.
